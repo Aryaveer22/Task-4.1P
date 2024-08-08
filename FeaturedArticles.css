@@ -1,0 +1,19 @@
+.featured-articles {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .see-all-articles {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #ccc;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+    margin-top: 20px;
+  }
+  
+  .see-all-articles:hover {
+    background-color: #19a8e5;
+  }
+  

@@ -1,0 +1,19 @@
+.featured-tutorials {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .see-all-tutorials {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #ccc;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+    margin-top: 20px;
+  }
+  
+  .see-all-tutorials:hover {
+    background-color: #09c3ec;
+  }
+  
